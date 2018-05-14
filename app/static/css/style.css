@@ -1,0 +1,24 @@
+* {
+box-sizing: border-box;
+}
+
+*:focus {
+	outline: none;
+}
+
+body {
+font-family: Arial;
+padding: 50px;
+}
+
+.example-app {
+margin: 120px auto;
+width: 400px;
+}
+
+.example-app-content {
+text-align: center;
+color: #777;
+padding: 20px;
+border-radius: 5px;
+}
